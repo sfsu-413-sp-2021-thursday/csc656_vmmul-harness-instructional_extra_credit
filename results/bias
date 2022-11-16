@@ -1,0 +1,12 @@
+Description:	Reference dgemv.
+
+Working on problem size N=1024 
+Time Elapsed: 0.008680
+Working on problem size N=2048 
+Time Elapsed: 0.003595
+Working on problem size N=4096 
+Time Elapsed: 0.013969
+Working on problem size N=8192 
+Time Elapsed: 0.056345
+Working on problem size N=16384 
+Time Elapsed: 0.221485
