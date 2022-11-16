@@ -99,7 +99,7 @@ std::chrono::time_point<std::chrono::high_resolution_clock> start_time = std::ch
 std::chrono::time_point<std::chrono::high_resolution_clock> end_time = std::chrono::high_resolution_clock::now();
 
 std::chrono::duration<double> elapsed = end_time - start_time;
-
+	printf("Time Elapsed: %f\n",elapsed);
         // now invoke the cblas method to compute the matrix-vector multiplye
         reference_dgemv(n, Acopy, Xcopy, Ycopy);
 
