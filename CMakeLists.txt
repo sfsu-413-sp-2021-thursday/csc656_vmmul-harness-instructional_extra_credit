@@ -47,5 +47,10 @@ target_compile_options(benchmark-openmp PRIVATE -fopenmp -Wall -pedantic -march=
 set(BENCHMARK "openmp")
 configure_file(job.in job-${BENCHMARK})
 
+add_executable(benchmark-openmp dgemv-openmp.cpp)
+target_link_libraries(benchmark-openmp PRIVATE benchmark ${BLAS_LIBRARIES})
+target_link_options(benchmark-openmp PRIVATE -fopenmp)
+target_compile_features(benchmark-openmp PRIVATE c_std_11 c_restrict)
+target_compile_options(benchmark-openmp PRIVATE -fopenmp -Wall -pedantic -march=native -O1)
 # EOF
 
