@@ -1,0 +1,10 @@
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/rebuild_cache.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-openmp-nested.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-openmp.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-openmp-outer.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-blas.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/edit_cache.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-vectorized.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-basic.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark-openmp-inner.dir
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/build/CMakeFiles/benchmark.dir
