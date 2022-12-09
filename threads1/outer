@@ -1,0 +1,17 @@
+Description:	OpenMP dgemv.
+
+Working on problem size N=1024 
+Hello world: thread 0 of 1 checking in. 
+Time Elapsed: 0.072432
+Working on problem size N=2048 
+Hello world: thread 0 of 1 checking in. 
+Time Elapsed: 0.019971
+Working on problem size N=4096 
+Hello world: thread 0 of 1 checking in. 
+Time Elapsed: 0.075756
+Working on problem size N=8192 
+Hello world: thread 0 of 1 checking in. 
+Time Elapsed: 0.296233
+Working on problem size N=16384 
+Hello world: thread 0 of 1 checking in. 
+Time Elapsed: 1.186953

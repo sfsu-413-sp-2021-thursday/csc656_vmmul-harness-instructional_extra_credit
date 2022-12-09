@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/global/homes/e/efrancis/csc656_vmmul-harness-instructional_extra_credit/benchmark.cpp
+algorithm
+-
+chrono
+-
+iomanip
+-
+iostream
+-
+random
+-
+vector
+-
+cmath
+-
+cblas.h
+-
+string.h
+-
+

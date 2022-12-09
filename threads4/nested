@@ -1,0 +1,37 @@
+Description:	OpenMP dgemv.
+
+Working on problem size N=1024 
+Hello world: thread 0 of 4 checking in. 
+Hello world: thread 1 of 4 checking in. 
+Hello world: thread 2 of 4 checking in. 
+Hello world: thread 3 of 4 checking in. 
+Time Elapsed: 0.069063
+ Error: your answer is not the same as that computed by BLAS. 
+Working on problem size N=2048 
+Hello world: thread 0 of 4 checking in. 
+Hello world: thread 1 of 4 checking in. 
+Hello world: thread 2 of 4 checking in. 
+Hello world: thread 3 of 4 checking in. 
+Time Elapsed: 0.005778
+ Error: your answer is not the same as that computed by BLAS. 
+Working on problem size N=4096 
+Hello world: thread 0 of 4 checking in. 
+Hello world: thread 1 of 4 checking in. 
+Hello world: thread 2 of 4 checking in. 
+Hello world: thread 3 of 4 checking in. 
+Time Elapsed: 0.020482
+ Error: your answer is not the same as that computed by BLAS. 
+Working on problem size N=8192 
+Hello world: thread 0 of 4 checking in. 
+Hello world: thread 1 of 4 checking in. 
+Hello world: thread 3 of 4 checking in. 
+Hello world: thread 2 of 4 checking in. 
+Time Elapsed: 0.078618
+ Error: your answer is not the same as that computed by BLAS. 
+Working on problem size N=16384 
+Hello world: thread 0 of 4 checking in. 
+Hello world: thread 1 of 4 checking in. 
+Hello world: thread 3 of 4 checking in. 
+Hello world: thread 2 of 4 checking in. 
+Time Elapsed: 0.311358
+ Error: your answer is not the same as that computed by BLAS. 

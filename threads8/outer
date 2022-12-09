@@ -1,0 +1,52 @@
+Description:	OpenMP dgemv.
+
+Working on problem size N=1024 
+Hello world: thread 0 of 8 checking in. 
+Hello world: thread 4 of 8 checking in. 
+Hello world: thread 5 of 8 checking in. 
+Hello world: thread 3 of 8 checking in. 
+Hello world: thread 1 of 8 checking in. 
+Hello world: thread 7 of 8 checking in. 
+Hello world: thread 6 of 8 checking in. 
+Hello world: thread 2 of 8 checking in. 
+Time Elapsed: 0.080202
+Working on problem size N=2048 
+Hello world: thread 0 of 8 checking in. 
+Hello world: thread 1 of 8 checking in. 
+Hello world: thread 3 of 8 checking in. 
+Hello world: thread 4 of 8 checking in. 
+Hello world: thread 5 of 8 checking in. 
+Hello world: thread 2 of 8 checking in. 
+Hello world: thread 7 of 8 checking in. 
+Hello world: thread 6 of 8 checking in. 
+Time Elapsed: 0.025592
+Working on problem size N=4096 
+Hello world: thread 0 of 8 checking in. 
+Hello world: thread 1 of 8 checking in. 
+Hello world: thread 2 of 8 checking in. 
+Hello world: thread 4 of 8 checking in. 
+Hello world: thread 5 of 8 checking in. 
+Hello world: thread 3 of 8 checking in. 
+Hello world: thread 6 of 8 checking in. 
+Hello world: thread 7 of 8 checking in. 
+Time Elapsed: 0.087158
+Working on problem size N=8192 
+Hello world: thread 0 of 8 checking in. 
+Hello world: thread 1 of 8 checking in. 
+Hello world: thread 3 of 8 checking in. 
+Hello world: thread 4 of 8 checking in. 
+Hello world: thread 5 of 8 checking in. 
+Hello world: thread 2 of 8 checking in. 
+Hello world: thread 7 of 8 checking in. 
+Hello world: thread 6 of 8 checking in. 
+Time Elapsed: 0.329894
+Working on problem size N=16384 
+Hello world: thread 0 of 8 checking in. 
+Hello world: thread 1 of 8 checking in. 
+Hello world: thread 3 of 8 checking in. 
+Hello world: thread 2 of 8 checking in. 
+Hello world: thread 4 of 8 checking in. 
+Hello world: thread 5 of 8 checking in. 
+Hello world: thread 7 of 8 checking in. 
+Hello world: thread 6 of 8 checking in. 
+Time Elapsed: 1.250755
